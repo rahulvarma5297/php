@@ -7,10 +7,7 @@
 </head>
 <body>
     <?php 
-        $title = "My First Post";
-        $author = "Mike";
-        $wordCount = 400;
-        include "article-header.php";
+        echo ("Hello World");
     ?>
 </body>
 </html>
